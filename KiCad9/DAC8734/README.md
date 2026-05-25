@@ -1,5 +1,5 @@
 # Data Acquisation
-This is an asiolated quad DAC board which can serve vaariety of puposes such as simple conversion of digital signal into analogue signal for monitoring puposes but also as an instrumentation analogue switch.
+This is an isolated quad DAC board which can serve a variety of purposes, such as simple conversion of a digital signal into an analogue signal for monitoring purposes, but also as an instrumentation analogue switch.
 
 The core of the board is the DAC8734. This chip cannot output high currents, but it is enough to drive some peripheral switching circuits that can boost power to trigger circuits that may be more power demanding, such as high-power MOSFETs for motor drives.
 
