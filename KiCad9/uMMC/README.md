@@ -13,7 +13,7 @@ The time synchronisation can be achieved simply by propagating the reference tim
 
 ### Synchronisation Signal  
 
-Alternatively, for a simple implementation and high accuracy, the submodules can feature a synchronisation pin that would start the time, for example, on logic high.
+Alternatively, for a simple implementation and high accuracy, the submodules can feature a synchronisation pin that would start the time, for example, on logic high. The ideal syncronisation trigger is one of the PWM pins on the controller board.
 
 ## Initialisation
 

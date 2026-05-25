@@ -1,5 +1,5 @@
 # Encoder
-
+This is a classic 24 PPR quadrature rotary encoder with a switch that is configured for active-low function.
 
 
 ## Front Side 
