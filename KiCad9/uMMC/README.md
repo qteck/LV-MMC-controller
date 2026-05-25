@@ -1,4 +1,8 @@
-# LV-MMC-controller
-LV MMC controller
+# Laboratory MMC controller
 
-![Whole System](Images/System.png)
+
+
+## Front Side 
+![controller front](../../Images/controller_front.jpg)
+## Back Side
+![controller back](../../Images/controller_back.jpg)

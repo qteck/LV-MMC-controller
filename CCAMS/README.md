@@ -6,7 +6,7 @@ Includes:
 - jQuery
 - Bootstrap
 - Popper.js
-- Web Serial API
+
 
 ![CCAMS](../Images/ccams.png)
 
