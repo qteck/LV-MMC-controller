@@ -30,7 +30,7 @@ The submodules should be autonomous and function as decentralized units, impleme
 
 ### Minimal Submodule Design
 
-The minimal submodule design establishes the conversion features only: an MCU with half-bridge or full-bridge capabilities and a capacitor on board that connects over UART and synchronizes over an external pin. The capacitors can then be directly charged from the controller board, leaving out all the complex control problems.
+The minimal submodule design can establish the conversion feature only with an MCU capable of DSP, an internal or external half-bridge or full-bridge circuit, and a capacitor, provided that the MCU exposes full-duplex UART communication and synchronizes over an external pin. The capacitors can then be directly charged from the controller board. 
 
 
 
